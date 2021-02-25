@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Kaleb McElyea and I'm currently a student with Boise Codeworks! My current goal is to graduate and become a software developer.
 <!--
 **KalebMcElyea/KalebMcElyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
