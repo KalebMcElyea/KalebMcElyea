@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kaleb McElyea and I'm currently a student with Boise Codeworks! My current goal is to graduate and become a software developer.
+My name is Kaleb McElyea and I am 25 years old.  I'm currently a student with Boise Codeworks! My current goal is to graduate and become a software developer. Fun fact about me is that ASL (American Sign Language) was the first language I learned before becoming effecient in English. 
 <!--
 **KalebMcElyea/KalebMcElyea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
